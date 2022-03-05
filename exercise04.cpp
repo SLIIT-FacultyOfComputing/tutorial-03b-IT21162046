@@ -26,7 +26,6 @@ using namespace std;
 void print(int len, int wth);
 void input(int &length, int &width);
 
-
 int main() {
    int length = 10, width = 5;
    input(length, width);
